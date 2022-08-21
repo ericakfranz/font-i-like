@@ -1,0 +1,120 @@
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans Bold'), local('BioSans-Bold'),
+        url('BioSans-Bold.woff2') format('woff2'),
+        url('BioSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans Bold Italic'), local('BioSans-BoldItalic'),
+        url('BioSans-BoldItalic.woff2') format('woff2'),
+        url('BioSans-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans ExtraBold'), local('BioSans-ExtraBold'),
+        url('BioSans-ExtraBold.woff2') format('woff2'),
+        url('BioSans-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans ExtraBold Italic'), local('BioSans-ExtraBoldItalic'),
+        url('BioSans-ExtraBoldItalic.woff2') format('woff2'),
+        url('BioSans-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans ExtraLight'), local('BioSans-ExtraLight'),
+        url('BioSans-ExtraLight.woff2') format('woff2'),
+        url('BioSans-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans ExtraLight Italic'), local('BioSans-ExtraLightItalic'),
+        url('BioSans-ExtraLightItalic.woff2') format('woff2'),
+        url('BioSans-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans Italic'), local('BioSans-Italic'),
+        url('BioSans-Italic.woff2') format('woff2'),
+        url('BioSans-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans Light'), local('BioSans-Light'),
+        url('BioSans-Light.woff2') format('woff2'),
+        url('BioSans-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans Light Italic'), local('BioSans-LightItalic'),
+        url('BioSans-LightItalic.woff2') format('woff2'),
+        url('BioSans-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans Regular'), local('BioSans-Regular'),
+        url('BioSans-Regular.woff2') format('woff2'),
+        url('BioSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans SemiBold Italic'), local('BioSans-SemiBoldItalic'),
+        url('BioSans-SemiBoldItalic.woff2') format('woff2'),
+        url('BioSans-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bio Sans';
+    src: local('Bio Sans SemiBold'), local('BioSans-SemiBold'),
+        url('BioSans-SemiBold.woff2') format('woff2'),
+        url('BioSans-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
