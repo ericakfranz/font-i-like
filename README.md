@@ -1,2 +1,2 @@
 # font-i-like
- Web Fonts I Like
+ Web fonts I like.
