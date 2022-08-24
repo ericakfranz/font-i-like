@@ -1,0 +1,160 @@
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Bold'),
+        url('Blimone-Bold.woff2') format('woff2'),
+        url('Blimone-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Bold'),
+        url('Blimone-Bold.woff2') format('woff2'),
+        url('Blimone-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-ExtraBold'),
+        url('Blimone-ExtraBold.woff2') format('woff2'),
+        url('Blimone-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-ExtraBold'),
+        url('Blimone-ExtraBold.woff2') format('woff2'),
+        url('Blimone-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-ExtraLight'),
+        url('Blimone-ExtraLight.woff2') format('woff2'),
+        url('Blimone-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Light'),
+        url('Blimone-Light.woff2') format('woff2'),
+        url('Blimone-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-ExtraLight'),
+        url('Blimone-ExtraLight.woff2') format('woff2'),
+        url('Blimone-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Medium'),
+        url('Blimone-Medium.woff2') format('woff2'),
+        url('Blimone-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Light'),
+        url('Blimone-Light.woff2') format('woff2'),
+        url('Blimone-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Medium'),
+        url('Blimone-Medium.woff2') format('woff2'),
+        url('Blimone-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-SemiBold'),
+        url('Blimone-SemiBold.woff2') format('woff2'),
+        url('Blimone-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Regular'),
+        url('Blimone-Regular.woff2') format('woff2'),
+        url('Blimone-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-SemiBold'),
+        url('Blimone-SemiBold.woff2') format('woff2'),
+        url('Blimone-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Regular'),
+        url('Blimone-Regular.woff2') format('woff2'),
+        url('Blimone-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Thin'),
+        url('Blimone-Thin.woff2') format('woff2'),
+        url('Blimone-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Blimone';
+    src: local('Blimone-Thin'),
+        url('Blimone-Thin.woff2') format('woff2'),
+        url('Blimone-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
